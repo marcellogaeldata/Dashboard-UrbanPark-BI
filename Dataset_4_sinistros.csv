@@ -1,0 +1,541 @@
+id_sinistro,id_ticket,id_unidade,nome_unidade,estado,data_hora,tipo_sinistro,custo,turno,dia_semana
+5313,5313,2,Barra da Tijuca,RJ,2023-08-26 06:04:35.597802,Batida,480.29,Manhã,Saturday
+18358,18358,8,Morumbi,SP,2025-01-13 14:02:24.493789,Batida,162.41,Tarde,Monday
+6429,6429,9,Pinheiros,SP,2023-09-19 18:39:57.881570,Batida,446.47,Noite,Tuesday
+15415,15415,9,Pinheiros,SP,2024-09-29 05:43:16.692912,Furto,55.15,Manhã,Sunday
+10611,10611,3,Centro,RJ,2024-03-10 06:42:28.136165,Furto,103.08,Manhã,Sunday
+3048,3048,1,Aeroporto Galeão,RJ,2023-05-30 06:40:02.450769,Batida,221.7,Manhã,Tuesday
+19439,19439,14,Lourdes,MG,2025-02-15 18:54:52.704654,Batida,216.49,Noite,Saturday
+19205,19205,10,Liberdade,SP,2025-02-14 11:46:36.029183,Batida,216.86,Manhã,Friday
+23347,23347,2,Barra da Tijuca,RJ,2025-08-08 22:35:16.574844,Batida,414.07,Noite,Friday
+15702,15702,15,Santa Efigênia,MG,2024-09-11 10:22:15.209140,Batida,336.97,Manhã,Wednesday
+15111,15111,3,Centro,RJ,2024-09-17 03:26:10.657234,Furto,92.63,Manhã,Tuesday
+18792,18792,1,Aeroporto Galeão,RJ,2025-02-08 02:20:45.128760,Dano mecânico,193.81,Manhã,Saturday
+16984,16984,10,Liberdade,SP,2024-11-05 23:43:50.417391,Batida,139.07,Noite,Tuesday
+3886,3886,3,Centro,RJ,2023-06-24 23:21:49.087375,Batida,148.82,Noite,Saturday
+8105,8105,13,Centro Belo Horizonte,MG,2023-11-11 07:00:47.990816,Batida,463.73,Manhã,Saturday
+18925,18925,4,Copacabana,RJ,2025-02-18 06:30:09.349737,Furto,127.93,Manhã,Tuesday
+25389,25389,13,Centro Belo Horizonte,MG,2025-10-04 01:00:23.360331,Batida,173.94,Manhã,Saturday
+26084,26084,12,Pampulha,MG,2025-11-13 23:23:39.046801,Furto,284.87,Noite,Thursday
+4885,4885,8,Morumbi,SP,2023-07-07 10:34:29.161448,Batida,468.75,Manhã,Friday
+8204,8204,15,Santa Efigênia,MG,2023-11-24 06:04:22.084871,Batida,118.09,Manhã,Friday
+4789,4789,6,Paulista,SP,2023-07-09 21:16:56.650029,Batida,208.54,Noite,Sunday
+13986,13986,10,Liberdade,SP,2024-07-25 00:38:57.295238,Batida,212.37,Manhã,Thursday
+2702,2702,10,Liberdade,SP,2023-04-04 18:15:25.285646,Batida,420.88,Noite,Tuesday
+13591,13591,2,Barra da Tijuca,RJ,2024-07-05 04:24:18.081133,Dano mecânico,159.0,Manhã,Friday
+19180,19180,9,Pinheiros,SP,2025-02-15 18:45:47.375100,Batida,426.18,Noite,Saturday
+24014,24014,1,Aeroporto Galeão,RJ,2025-09-05 02:03:37.331220,Furto,242.82,Manhã,Friday
+1216,1216,10,Liberdade,SP,2023-02-06 04:43:15.631625,Batida,146.35,Manhã,Monday
+7843,7843,7,Itaim Bibi,SP,2023-11-03 07:40:00.141827,Furto,132.72,Manhã,Friday
+18572,18572,12,Pampulha,MG,2025-01-12 20:47:18.074552,Batida,230.07,Noite,Sunday
+16682,16682,4,Copacabana,RJ,2024-11-18 01:14:39.802784,Furto,271.8,Manhã,Monday
+13990,13990,10,Liberdade,SP,2024-07-27 00:05:11.236687,Batida,385.3,Manhã,Saturday
+13382,13382,13,Centro Belo Horizonte,MG,2024-06-26 19:44:09.609171,Batida,408.39,Noite,Wednesday
+19467,19467,15,Santa Efigênia,MG,2025-02-01 17:29:11.712961,Batida,271.02,Tarde,Saturday
+23189,23189,14,Lourdes,MG,2025-07-30 00:50:31.547574,Batida,112.57,Manhã,Wednesday
+21263,21263,6,Paulista,SP,2025-05-15 23:18:39.589397,Batida,303.43,Noite,Thursday
+5501,5501,6,Paulista,SP,2023-08-22 16:44:01.798783,Batida,264.15,Tarde,Tuesday
+19860,19860,8,Morumbi,SP,2025-03-16 10:14:26.941707,Batida,130.79,Manhã,Sunday
+3595,3595,12,Pampulha,MG,2023-05-28 08:38:45.117081,Batida,471.88,Manhã,Sunday
+19827,19827,7,Itaim Bibi,SP,2025-03-17 07:12:49.465169,Furto,267.87,Manhã,Monday
+13656,13656,4,Copacabana,RJ,2024-07-20 23:42:03.380369,Batida,457.02,Noite,Saturday
+2586,2586,7,Itaim Bibi,SP,2023-04-07 02:07:57.666870,Furto,274.02,Manhã,Friday
+21743,21743,15,Santa Efigênia,MG,2025-05-02 00:37:28.226533,Batida,191.17,Manhã,Friday
+2351,2351,3,Centro,RJ,2023-04-12 06:50:50.831316,Furto,265.18,Manhã,Wednesday
+12152,12152,4,Copacabana,RJ,2024-05-31 04:31:11.774953,Batida,266.96,Manhã,Friday
+22823,22823,7,Itaim Bibi,SP,2025-07-29 08:02:09.366942,Batida,235.05,Manhã,Tuesday
+4192,4192,9,Pinheiros,SP,2023-06-16 21:00:36.802568,Batida,307.52,Noite,Friday
+17639,17639,8,Morumbi,SP,2024-12-18 17:32:42.764252,Batida,488.71,Tarde,Wednesday
+25129,25129,8,Morumbi,SP,2025-10-20 19:33:16.388995,Batida,298.9,Noite,Monday
+9734,9734,15,Santa Efigênia,MG,2024-01-13 05:55:27.466327,Batida,114.75,Manhã,Saturday
+5103,5103,13,Centro Belo Horizonte,MG,2023-07-29 18:13:14.508603,Batida,120.59,Noite,Saturday
+6317,6317,7,Itaim Bibi,SP,2023-09-29 04:50:57.194859,Dano mecânico,63.12,Manhã,Friday
+26260,26260,1,Aeroporto Galeão,RJ,2025-12-04 16:42:17.688047,Batida,494.26,Tarde,Thursday
+6188,6188,4,Copacabana,RJ,2023-09-23 02:43:19.114301,Furto,240.4,Manhã,Saturday
+6761,6761,1,Aeroporto Galeão,RJ,2023-10-05 10:14:38.159261,Furto,141.95,Manhã,Thursday
+5972,5972,15,Santa Efigênia,MG,2023-08-09 07:21:17.994940,Furto,183.94,Manhã,Wednesday
+16278,16278,11,Savassi,MG,2024-10-06 06:11:00.276147,Furto,130.2,Manhã,Sunday
+12429,12429,9,Pinheiros,SP,2024-05-01 02:24:53.340145,Batida,336.36,Manhã,Wednesday
+9141,9141,3,Centro,RJ,2024-01-25 01:37:37.313894,Batida,304.84,Manhã,Thursday
+25332,25332,12,Pampulha,MG,2025-10-20 13:32:06.816767,Furto,93.59,Tarde,Monday
+17830,17830,12,Pampulha,MG,2024-12-04 00:22:14.377965,Batida,474.69,Manhã,Wednesday
+7407,7407,14,Lourdes,MG,2023-10-23 18:06:39.245078,Batida,145.39,Noite,Monday
+11645,11645,8,Morumbi,SP,2024-04-25 22:14:12.718610,Dano mecânico,66.43,Noite,Thursday
+18138,18138,3,Centro,RJ,2025-01-15 20:43:48.349735,Furto,188.8,Noite,Wednesday
+11661,11661,9,Pinheiros,SP,2024-04-27 10:08:10.303973,Batida,137.24,Manhã,Saturday
+19749,19749,5,Méier,RJ,2025-03-23 22:18:32.905751,Dano mecânico,133.96,Noite,Sunday
+25236,25236,10,Liberdade,SP,2025-10-23 13:29:06.536308,Batida,390.38,Tarde,Thursday
+9335,9335,7,Itaim Bibi,SP,2024-01-18 22:21:43.270527,Dano mecânico,160.38,Noite,Thursday
+5228,5228,15,Santa Efigênia,MG,2023-07-27 16:37:36.451751,Batida,164.65,Tarde,Thursday
+2642,2642,8,Morumbi,SP,2023-04-01 05:04:59.701442,Furto,52.3,Manhã,Saturday
+5505,5505,6,Paulista,SP,2023-08-14 14:40:44.958133,Furto,51.27,Tarde,Monday
+8179,8179,14,Lourdes,MG,2023-11-26 14:46:57.146519,Batida,376.76,Tarde,Sunday
+14014,14014,11,Savassi,MG,2024-07-07 07:49:27.054248,Batida,384.87,Manhã,Sunday
+25446,25446,14,Lourdes,MG,2025-10-29 01:20:54.470585,Batida,398.6,Manhã,Wednesday
+26056,26056,12,Pampulha,MG,2025-11-29 14:03:18.657916,Furto,214.4,Tarde,Saturday
+1570,1570,2,Barra da Tijuca,RJ,2023-03-24 20:32:18.304420,Batida,247.09,Noite,Friday
+19958,19958,10,Liberdade,SP,2025-03-03 05:55:03.509318,Batida,489.2,Manhã,Monday
+24736,24736,15,Santa Efigênia,MG,2025-09-11 12:55:27.133558,Dano mecânico,133.6,Tarde,Thursday
+6272,6272,6,Paulista,SP,2023-09-24 06:36:55.170166,Batida,330.76,Manhã,Sunday
+10570,10570,2,Barra da Tijuca,RJ,2024-03-11 12:57:51.792447,Batida,388.98,Tarde,Monday
+7764,7764,6,Paulista,SP,2023-11-23 04:09:14.619826,Batida,358.19,Manhã,Thursday
+5406,5406,4,Copacabana,RJ,2023-08-29 11:11:43.287294,Dano mecânico,191.71,Manhã,Tuesday
+429,429,9,Pinheiros,SP,2023-01-12 19:27:05.401434,Batida,106.18,Noite,Thursday
+22514,22514,1,Aeroporto Galeão,RJ,2025-07-09 11:29:56.661262,Batida,486.66,Manhã,Wednesday
+10698,10698,4,Copacabana,RJ,2024-03-15 14:18:42.761122,Dano mecânico,73.0,Tarde,Friday
+10942,10942,9,Pinheiros,SP,2024-03-09 00:52:42.556998,Dano mecânico,77.05,Manhã,Saturday
+10009,10009,6,Paulista,SP,2024-02-11 19:09:28.724268,Batida,474.46,Noite,Sunday
+24703,24703,15,Santa Efigênia,MG,2025-09-07 22:03:37.685649,Batida,138.87,Noite,Sunday
+4746,4746,5,Méier,RJ,2023-07-12 22:02:33.433798,Dano mecânico,45.22,Noite,Wednesday
+1960,1960,10,Liberdade,SP,2023-03-15 16:48:24.107331,Dano mecânico,153.34,Tarde,Wednesday
+19368,19368,13,Centro Belo Horizonte,MG,2025-02-26 14:54:17.369979,Furto,139.87,Tarde,Wednesday
+9775,9775,1,Aeroporto Galeão,RJ,2024-02-25 17:51:46.530537,Furto,252.53,Tarde,Sunday
+3182,3182,4,Copacabana,RJ,2023-05-31 05:15:32.376833,Dano mecânico,112.04,Manhã,Wednesday
+19080,19080,7,Itaim Bibi,SP,2025-02-18 23:33:36.340335,Furto,212.49,Noite,Tuesday
+1267,1267,11,Savassi,MG,2023-02-02 11:47:34.286184,Furto,272.5,Manhã,Thursday
+7072,7072,7,Itaim Bibi,SP,2023-10-04 11:21:59.613848,Batida,137.59,Manhã,Wednesday
+18595,18595,12,Pampulha,MG,2025-01-09 22:01:10.508950,Batida,286.24,Noite,Thursday
+22811,22811,7,Itaim Bibi,SP,2025-07-07 18:48:16.938146,Batida,336.33,Noite,Monday
+5938,5938,14,Lourdes,MG,2023-08-31 14:35:41.787653,Batida,429.04,Tarde,Thursday
+16414,16414,14,Lourdes,MG,2024-10-01 16:46:31.151032,Batida,308.9,Tarde,Tuesday
+100,100,2,Barra da Tijuca,RJ,2023-01-16 00:44:02.271476,Batida,349.16,Manhã,Monday
+10109,10109,8,Morumbi,SP,2024-02-19 02:56:28.112277,Batida,312.54,Manhã,Monday
+16541,16541,1,Aeroporto Galeão,RJ,2024-11-26 16:25:07.764411,Furto,231.52,Tarde,Tuesday
+6905,6905,4,Copacabana,RJ,2023-10-02 14:42:35.826430,Batida,229.18,Tarde,Monday
+10899,10899,8,Morumbi,SP,2024-03-08 18:53:00.314542,Batida,275.59,Noite,Friday
+9737,9737,15,Santa Efigênia,MG,2024-01-31 15:03:14.622953,Batida,485.06,Tarde,Wednesday
+11612,11612,8,Morumbi,SP,2024-04-10 20:17:49.115660,Furto,152.24,Noite,Wednesday
+14674,14674,9,Pinheiros,SP,2024-08-30 12:06:19.368244,Batida,200.1,Tarde,Friday
+6922,6922,4,Copacabana,RJ,2023-10-01 06:09:11.741057,Furto,215.05,Manhã,Sunday
+18055,18055,2,Barra da Tijuca,RJ,2025-01-31 10:40:20.932139,Dano mecânico,152.82,Manhã,Friday
+14016,14016,11,Savassi,MG,2024-07-05 22:48:34.303598,Furto,154.9,Noite,Friday
+12521,12521,11,Savassi,MG,2024-05-29 09:29:19.518209,Batida,403.14,Manhã,Wednesday
+4703,4703,5,Méier,RJ,2023-07-01 04:31:29.831564,Batida,118.4,Manhã,Saturday
+7278,7278,11,Savassi,MG,2023-10-31 18:02:33.143191,Dano mecânico,146.66,Noite,Tuesday
+7887,7887,8,Morumbi,SP,2023-11-13 19:59:22.270166,Batida,296.65,Noite,Monday
+15026,15026,1,Aeroporto Galeão,RJ,2024-09-09 11:45:09.241090,Batida,273.54,Manhã,Monday
+24791,24791,1,Aeroporto Galeão,RJ,2025-10-13 18:44:45.941150,Furto,208.77,Noite,Monday
+18637,18637,13,Centro Belo Horizonte,MG,2025-01-10 01:00:47.488592,Batida,350.34,Manhã,Friday
+6664,6664,14,Lourdes,MG,2023-09-04 04:49:54.007398,Dano mecânico,138.56,Manhã,Monday
+19490,19490,15,Santa Efigênia,MG,2025-02-17 12:08:41.413872,Batida,356.97,Tarde,Monday
+5515,5515,6,Paulista,SP,2023-08-18 23:30:57.083681,Batida,476.09,Noite,Friday
+24121,24121,3,Centro,RJ,2025-09-14 18:01:45.127679,Batida,357.32,Noite,Sunday
+16766,16766,6,Paulista,SP,2024-11-01 08:23:04.227271,Batida,476.59,Manhã,Friday
+8490,8490,5,Méier,RJ,2023-12-22 21:46:41.382717,Dano mecânico,182.96,Noite,Friday
+17230,17230,15,Santa Efigênia,MG,2024-11-26 14:11:32.504763,Batida,140.31,Tarde,Tuesday
+4878,4878,8,Morumbi,SP,2023-07-17 12:24:46.169909,Batida,373.2,Tarde,Monday
+23825,23825,12,Pampulha,MG,2025-08-18 07:59:01.343610,Batida,437.95,Manhã,Monday
+19247,19247,10,Liberdade,SP,2025-02-19 06:37:02.473549,Furto,120.46,Manhã,Wednesday
+6888,6888,3,Centro,RJ,2023-10-30 09:03:44.811604,Furto,207.24,Manhã,Monday
+10317,10317,12,Pampulha,MG,2024-02-11 12:11:26.278718,Furto,250.87,Tarde,Sunday
+25162,25162,9,Pinheiros,SP,2025-10-08 15:03:09.695065,Batida,400.25,Tarde,Wednesday
+3859,3859,3,Centro,RJ,2023-06-24 21:14:01.875876,Dano mecânico,94.27,Noite,Saturday
+12903,12903,4,Copacabana,RJ,2024-06-06 19:30:52.687327,Furto,135.2,Noite,Thursday
+12194,12194,4,Copacabana,RJ,2024-05-20 05:06:47.989525,Dano mecânico,97.22,Manhã,Monday
+24884,24884,3,Centro,RJ,2025-10-21 08:50:26.081584,Furto,75.78,Manhã,Tuesday
+9441,9441,9,Pinheiros,SP,2024-01-14 13:39:00.758450,Batida,430.58,Tarde,Sunday
+19877,19877,8,Morumbi,SP,2025-03-03 13:03:32.292265,Dano mecânico,90.06,Tarde,Monday
+20157,20157,14,Lourdes,MG,2025-03-06 15:28:00.235816,Dano mecânico,36.43,Tarde,Thursday
+9531,9531,11,Savassi,MG,2024-01-07 12:59:53.671718,Dano mecânico,191.11,Tarde,Sunday
+17482,17482,5,Méier,RJ,2024-12-06 23:14:29.166671,Furto,162.11,Noite,Friday
+17106,17106,13,Centro Belo Horizonte,MG,2024-11-26 23:48:44.450197,Batida,369.01,Noite,Tuesday
+24772,24772,1,Aeroporto Galeão,RJ,2025-10-16 01:53:26.290525,Furto,247.4,Manhã,Thursday
+26814,26814,12,Pampulha,MG,2025-12-21 22:43:46.375183,Batida,123.02,Noite,Sunday
+5226,5226,15,Santa Efigênia,MG,2023-07-24 17:13:06.184499,Batida,455.08,Tarde,Monday
+12894,12894,3,Centro,RJ,2024-06-26 04:59:10.369189,Batida,157.2,Manhã,Wednesday
+2589,2589,7,Itaim Bibi,SP,2023-04-12 23:41:59.721598,Furto,75.28,Noite,Wednesday
+15294,15294,6,Paulista,SP,2024-09-27 14:19:35.869202,Furto,68.19,Tarde,Friday
+10211,10211,10,Liberdade,SP,2024-02-28 20:30:33.093406,Furto,70.34,Noite,Wednesday
+12401,12401,9,Pinheiros,SP,2024-05-16 11:19:19.686066,Dano mecânico,87.37,Manhã,Thursday
+26049,26049,11,Savassi,MG,2025-11-29 03:32:48.914177,Furto,286.81,Manhã,Saturday
+2852,2852,13,Centro Belo Horizonte,MG,2023-04-18 23:39:23.012596,Furto,144.06,Noite,Tuesday
+16317,16317,12,Pampulha,MG,2024-10-01 02:31:26.089780,Furto,189.6,Manhã,Tuesday
+10769,10769,6,Paulista,SP,2024-03-08 01:13:58.533789,Dano mecânico,40.02,Manhã,Friday
+2153,2153,14,Lourdes,MG,2023-03-15 17:00:20.002780,Batida,287.46,Tarde,Wednesday
+9028,9028,1,Aeroporto Galeão,RJ,2024-01-11 07:31:41.850472,Batida,147.01,Manhã,Thursday
+12305,12305,7,Itaim Bibi,SP,2024-05-20 12:48:08.052425,Furto,195.84,Tarde,Monday
+5585,5585,7,Itaim Bibi,SP,2023-08-31 20:41:18.199551,Batida,214.28,Noite,Thursday
+8932,8932,14,Lourdes,MG,2023-12-28 19:23:28.021349,Batida,485.29,Noite,Thursday
+24647,24647,13,Centro Belo Horizonte,MG,2025-09-08 12:00:50.181877,Dano mecânico,27.77,Tarde,Monday
+12563,12563,12,Pampulha,MG,2024-05-29 20:18:40.563923,Batida,497.19,Noite,Wednesday
+14628,14628,8,Morumbi,SP,2024-08-02 22:19:07.436436,Batida,487.72,Noite,Friday
+13401,13401,14,Lourdes,MG,2024-06-30 19:46:17.104038,Furto,223.94,Noite,Sunday
+8619,8619,8,Morumbi,SP,2023-12-02 22:10:47.655436,Furto,196.08,Noite,Saturday
+14691,14691,9,Pinheiros,SP,2024-08-25 16:44:28.333807,Batida,212.39,Tarde,Sunday
+24585,24585,12,Pampulha,MG,2025-09-19 09:34:21.693188,Dano mecânico,102.02,Manhã,Friday
+25849,25849,7,Itaim Bibi,SP,2025-11-23 03:55:16.491568,Batida,175.25,Manhã,Sunday
+18127,18127,3,Centro,RJ,2025-01-19 08:30:15.044464,Batida,333.46,Manhã,Sunday
+22443,22443,14,Lourdes,MG,2025-06-03 06:38:19.315810,Dano mecânico,197.52,Manhã,Tuesday
+14095,14095,12,Pampulha,MG,2024-07-04 05:53:18.273477,Batida,223.81,Manhã,Thursday
+20763,20763,11,Savassi,MG,2025-04-25 04:19:22.151839,Furto,90.65,Manhã,Friday
+13173,13173,9,Pinheiros,SP,2024-06-06 01:07:30.017840,Furto,287.45,Manhã,Thursday
+26432,26432,4,Copacabana,RJ,2025-12-14 03:21:26.689773,Furto,154.56,Manhã,Sunday
+20666,20666,9,Pinheiros,SP,2025-04-21 10:56:39.847548,Dano mecânico,28.14,Manhã,Monday
+13848,13848,7,Itaim Bibi,SP,2024-07-29 04:04:53.691457,Batida,424.22,Manhã,Monday
+9100,9100,2,Barra da Tijuca,RJ,2024-01-28 08:17:06.826957,Batida,337.65,Manhã,Sunday
+20442,20442,4,Copacabana,RJ,2025-04-03 03:14:14.896013,Dano mecânico,171.58,Manhã,Thursday
+10936,10936,9,Pinheiros,SP,2024-03-09 11:35:24.410842,Batida,265.93,Manhã,Saturday
+20574,20574,7,Itaim Bibi,SP,2025-04-23 20:58:43.750624,Batida,445.89,Noite,Wednesday
+2820,2820,12,Pampulha,MG,2023-04-06 04:09:49.017096,Dano mecânico,199.39,Manhã,Thursday
+22232,22232,10,Liberdade,SP,2025-06-09 15:33:23.561169,Furto,286.19,Tarde,Monday
+7504,7504,1,Aeroporto Galeão,RJ,2023-11-16 04:11:57.169681,Batida,280.22,Manhã,Thursday
+2753,2753,11,Savassi,MG,2023-04-25 06:34:11.002001,Dano mecânico,129.11,Manhã,Tuesday
+18144,18144,3,Centro,RJ,2025-01-28 19:27:28.645211,Furto,204.53,Noite,Tuesday
+9560,9560,12,Pampulha,MG,2024-01-31 18:52:27.598602,Batida,368.63,Noite,Wednesday
+2534,2534,6,Paulista,SP,2023-04-16 04:17:05.205922,Furto,180.04,Manhã,Sunday
+16544,16544,1,Aeroporto Galeão,RJ,2024-11-06 10:03:49.035433,Batida,324.38,Manhã,Wednesday
+4680,4680,4,Copacabana,RJ,2023-07-01 04:59:31.047629,Batida,153.61,Manhã,Saturday
+3309,3309,7,Itaim Bibi,SP,2023-05-13 03:06:24.188760,Furto,205.08,Manhã,Saturday
+251,251,6,Paulista,SP,2023-01-26 06:32:51.379885,Batida,154.55,Manhã,Thursday
+4060,4060,7,Itaim Bibi,SP,2023-06-11 18:04:22.290082,Batida,335.97,Noite,Sunday
+4195,4195,9,Pinheiros,SP,2023-06-16 10:48:44.638557,Batida,461.66,Manhã,Friday
+18159,18159,4,Copacabana,RJ,2025-01-11 04:37:50.163239,Batida,413.46,Manhã,Saturday
+25881,25881,8,Morumbi,SP,2025-11-16 22:53:01.881574,Furto,265.59,Noite,Sunday
+197,197,4,Copacabana,RJ,2023-01-10 18:36:56.984535,Batida,470.64,Noite,Tuesday
+21876,21876,3,Centro,RJ,2025-06-02 10:16:40.937387,Batida,283.65,Manhã,Monday
+12621,12621,13,Centro Belo Horizonte,MG,2024-05-24 15:56:46.702136,Batida,231.5,Tarde,Friday
+18435,18435,9,Pinheiros,SP,2025-01-28 21:45:50.675836,Batida,130.35,Noite,Tuesday
+26011,26011,11,Savassi,MG,2025-11-14 07:06:18.126801,Batida,160.76,Manhã,Friday
+24048,24048,1,Aeroporto Galeão,RJ,2025-09-25 19:27:31.136362,Furto,95.47,Noite,Thursday
+5876,5876,13,Centro Belo Horizonte,MG,2023-08-13 01:36:14.050399,Dano mecânico,105.31,Manhã,Sunday
+18405,18405,9,Pinheiros,SP,2025-01-20 16:37:16.366617,Batida,176.92,Tarde,Monday
+3422,3422,9,Pinheiros,SP,2023-05-13 16:45:37.026752,Batida,211.44,Tarde,Saturday
+346,346,7,Itaim Bibi,SP,2023-01-24 18:21:54.627117,Batida,148.25,Noite,Tuesday
+10319,10319,12,Pampulha,MG,2024-02-07 22:30:33.358204,Batida,245.71,Noite,Wednesday
+324,324,7,Itaim Bibi,SP,2023-01-15 18:18:52.425244,Furto,59.83,Noite,Sunday
+8893,8893,13,Centro Belo Horizonte,MG,2023-12-08 17:35:24.120813,Furto,70.44,Tarde,Friday
+5672,5672,9,Pinheiros,SP,2023-08-14 14:54:38.445382,Dano mecânico,30.99,Tarde,Monday
+22411,22411,14,Lourdes,MG,2025-06-02 05:40:02.165839,Furto,237.06,Manhã,Monday
+13469,13469,15,Santa Efigênia,MG,2024-06-19 10:44:25.948438,Batida,248.19,Manhã,Wednesday
+4048,4048,6,Paulista,SP,2023-06-06 03:38:54.845553,Furto,142.23,Manhã,Tuesday
+22159,22159,9,Pinheiros,SP,2025-06-23 21:19:25.598237,Furto,59.17,Noite,Monday
+7498,7498,15,Santa Efigênia,MG,2023-10-09 13:38:21.056933,Furto,273.8,Tarde,Monday
+8484,8484,5,Méier,RJ,2023-12-18 00:08:23.024442,Batida,142.87,Manhã,Monday
+8030,8030,11,Savassi,MG,2023-11-03 13:06:25.059176,Batida,196.99,Tarde,Friday
+18894,18894,3,Centro,RJ,2025-02-02 06:17:47.778904,Batida,108.03,Manhã,Sunday
+19797,19797,6,Paulista,SP,2025-03-03 21:28:28.225977,Batida,231.0,Noite,Monday
+21310,21310,7,Itaim Bibi,SP,2025-05-31 04:56:11.819833,Dano mecânico,126.85,Manhã,Saturday
+13091,13091,7,Itaim Bibi,SP,2024-06-01 22:29:45.292820,Furto,174.61,Noite,Saturday
+23764,23764,11,Savassi,MG,2025-08-11 15:41:18.030976,Batida,334.74,Tarde,Monday
+5674,5674,9,Pinheiros,SP,2023-08-22 19:18:50.965515,Batida,151.03,Noite,Tuesday
+13221,13221,10,Liberdade,SP,2024-06-23 08:31:37.389975,Batida,358.37,Manhã,Sunday
+12294,12294,6,Paulista,SP,2024-05-04 06:23:44.600543,Batida,494.61,Manhã,Saturday
+17012,17012,11,Savassi,MG,2024-11-27 23:18:07.484638,Batida,140.71,Noite,Wednesday
+21024,21024,1,Aeroporto Galeão,RJ,2025-05-28 22:55:48.556414,Batida,164.27,Noite,Wednesday
+1982,1982,10,Liberdade,SP,2023-03-27 06:52:03.375132,Batida,169.35,Manhã,Monday
+1203,1203,10,Liberdade,SP,2023-02-03 03:12:46.226874,Batida,309.8,Manhã,Friday
+14944,14944,14,Lourdes,MG,2024-08-04 18:20:05.061254,Dano mecânico,40.17,Noite,Sunday
+7732,7732,5,Méier,RJ,2023-11-28 04:27:36.853522,Dano mecânico,175.79,Manhã,Tuesday
+10865,10865,8,Morumbi,SP,2024-03-05 08:54:36.280537,Batida,168.36,Manhã,Tuesday
+26296,26296,1,Aeroporto Galeão,RJ,2025-12-22 19:39:50.593264,Dano mecânico,120.22,Noite,Monday
+24694,24694,14,Lourdes,MG,2025-09-20 11:05:49.427555,Batida,407.8,Manhã,Saturday
+10000,10000,5,Méier,RJ,2024-02-23 07:58:46.949705,Batida,270.17,Manhã,Friday
+22568,22568,2,Barra da Tijuca,RJ,2025-07-11 20:58:30.341288,Batida,145.93,Noite,Friday
+19200,19200,9,Pinheiros,SP,2025-02-04 23:24:15.112002,Batida,332.5,Noite,Tuesday
+12288,12288,6,Paulista,SP,2024-05-11 07:46:58.826622,Batida,313.04,Manhã,Saturday
+4158,4158,9,Pinheiros,SP,2023-06-22 10:37:34.413744,Batida,153.77,Manhã,Thursday
+8171,8171,14,Lourdes,MG,2023-11-19 07:03:40.308422,Dano mecânico,78.02,Manhã,Sunday
+23979,23979,15,Santa Efigênia,MG,2025-08-25 03:29:50.380893,Batida,372.6,Manhã,Monday
+17447,17447,4,Copacabana,RJ,2024-12-09 20:51:21.585599,Batida,288.63,Noite,Monday
+10250,10250,10,Liberdade,SP,2024-02-03 15:55:02.834979,Batida,471.81,Tarde,Saturday
+10153,10153,9,Pinheiros,SP,2024-02-24 14:58:14.436750,Dano mecânico,42.37,Tarde,Saturday
+3994,3994,5,Méier,RJ,2023-06-06 02:53:47.513764,Dano mecânico,52.62,Manhã,Tuesday
+16464,16464,15,Santa Efigênia,MG,2024-10-19 15:24:19.014271,Furto,193.62,Tarde,Saturday
+1434,1434,14,Lourdes,MG,2023-02-08 16:23:47.067993,Batida,418.11,Tarde,Wednesday
+1924,1924,9,Pinheiros,SP,2023-03-10 09:39:11.258286,Batida,165.71,Manhã,Friday
+11880,11880,13,Centro Belo Horizonte,MG,2024-04-20 23:02:39.645713,Furto,180.77,Noite,Saturday
+25927,25927,9,Pinheiros,SP,2025-11-03 10:23:32.807200,Dano mecânico,90.64,Manhã,Monday
+16125,16125,8,Morumbi,SP,2024-10-27 21:04:14.978667,Batida,250.78,Noite,Sunday
+2143,2143,13,Centro Belo Horizonte,MG,2023-03-08 10:38:11.740938,Batida,399.04,Manhã,Wednesday
+22469,22469,15,Santa Efigênia,MG,2025-06-29 08:01:12.969397,Batida,459.83,Manhã,Sunday
+2938,2938,14,Lourdes,MG,2023-04-16 14:47:18.580087,Batida,462.59,Tarde,Sunday
+15555,15555,12,Pampulha,MG,2024-09-14 18:37:27.680705,Batida,475.93,Noite,Saturday
+6356,6356,8,Morumbi,SP,2023-09-27 08:41:41.930258,Batida,155.71,Manhã,Wednesday
+19799,19799,6,Paulista,SP,2025-03-09 16:45:04.427648,Furto,183.37,Tarde,Sunday
+18676,18676,14,Lourdes,MG,2025-01-17 18:47:17.187421,Furto,87.92,Noite,Friday
+6308,6308,7,Itaim Bibi,SP,2023-09-07 06:17:50.322678,Batida,397.58,Manhã,Thursday
+15901,15901,4,Copacabana,RJ,2024-10-28 05:23:34.510298,Batida,404.98,Manhã,Monday
+2593,2593,7,Itaim Bibi,SP,2023-04-20 01:51:51.927470,Batida,428.5,Manhã,Thursday
+16757,16757,6,Paulista,SP,2024-11-15 17:21:03.385501,Furto,81.87,Tarde,Friday
+24357,24357,8,Morumbi,SP,2025-09-12 22:41:08.221835,Furto,87.48,Noite,Friday
+15144,15144,3,Centro,RJ,2024-09-21 08:18:55.450483,Furto,230.01,Manhã,Saturday
+15726,15726,15,Santa Efigênia,MG,2024-09-25 12:09:23.730703,Furto,185.68,Tarde,Wednesday
+24629,24629,13,Centro Belo Horizonte,MG,2025-09-05 13:54:09.498689,Batida,172.64,Tarde,Friday
+13628,13628,3,Centro,RJ,2024-07-03 04:14:32.316178,Batida,260.34,Manhã,Wednesday
+26564,26564,7,Itaim Bibi,SP,2025-12-11 05:22:12.256686,Dano mecânico,47.6,Manhã,Thursday
+11239,11239,15,Santa Efigênia,MG,2024-03-24 02:38:46.829882,Batida,344.58,Manhã,Sunday
+23464,23464,5,Méier,RJ,2025-08-03 20:08:11.957129,Dano mecânico,187.78,Noite,Sunday
+26867,26867,13,Centro Belo Horizonte,MG,2025-12-06 05:01:12.069555,Furto,280.62,Manhã,Saturday
+13493,13493,15,Santa Efigênia,MG,2024-06-09 06:22:33.568938,Batida,330.52,Manhã,Sunday
+20635,20635,8,Morumbi,SP,2025-04-20 04:39:30.208523,Batida,394.58,Manhã,Sunday
+17602,17602,8,Morumbi,SP,2024-12-02 03:50:31.406628,Dano mecânico,101.15,Manhã,Monday
+15072,15072,2,Barra da Tijuca,RJ,2024-09-19 04:04:35.551197,Dano mecânico,171.0,Manhã,Thursday
+22318,22318,12,Pampulha,MG,2025-06-09 18:52:59.433911,Dano mecânico,176.58,Noite,Monday
+13888,13888,8,Morumbi,SP,2024-07-15 00:12:11.728007,Batida,259.6,Manhã,Monday
+6858,6858,3,Centro,RJ,2023-10-20 05:32:18.166523,Batida,421.14,Manhã,Friday
+14443,14443,4,Copacabana,RJ,2024-08-18 08:59:48.688281,Batida,259.27,Manhã,Sunday
+15273,15273,6,Paulista,SP,2024-09-03 19:37:31.913526,Dano mecânico,82.34,Noite,Tuesday
+13198,13198,9,Pinheiros,SP,2024-06-23 03:20:44.912227,Furto,163.05,Manhã,Sunday
+10363,10363,13,Centro Belo Horizonte,MG,2024-02-18 15:26:42.035933,Batida,156.34,Tarde,Sunday
+12637,12637,13,Centro Belo Horizonte,MG,2024-05-21 06:13:19.385497,Batida,267.57,Manhã,Tuesday
+23850,23850,12,Pampulha,MG,2025-08-19 17:54:39.892432,Batida,332.24,Tarde,Tuesday
+26067,26067,12,Pampulha,MG,2025-11-08 06:58:58.455127,Batida,365.41,Manhã,Saturday
+16802,16802,7,Itaim Bibi,SP,2024-11-17 00:50:42.460256,Dano mecânico,46.76,Manhã,Sunday
+26775,26775,11,Savassi,MG,2025-12-11 06:09:25.415901,Batida,498.75,Manhã,Thursday
+19228,19228,10,Liberdade,SP,2025-02-10 19:36:00.386437,Batida,126.83,Noite,Monday
+11962,11962,15,Santa Efigênia,MG,2024-04-27 08:21:47.081179,Batida,459.22,Manhã,Saturday
+20435,20435,4,Copacabana,RJ,2025-04-03 00:26:01.519039,Batida,114.62,Manhã,Thursday
+25432,25432,14,Lourdes,MG,2025-10-23 23:46:33.791340,Batida,126.28,Noite,Thursday
+9508,9508,11,Savassi,MG,2024-01-16 04:20:01.324192,Batida,309.76,Manhã,Tuesday
+25667,25667,4,Copacabana,RJ,2025-11-12 21:34:00.964555,Batida,323.86,Noite,Wednesday
+867,867,3,Centro,RJ,2023-02-18 02:06:31.168000,Batida,444.71,Manhã,Saturday
+22199,22199,9,Pinheiros,SP,2025-06-14 08:51:03.069227,Batida,208.3,Manhã,Saturday
+2959,2959,15,Santa Efigênia,MG,2023-04-15 16:24:16.093396,Batida,110.15,Tarde,Saturday
+12913,12913,4,Copacabana,RJ,2024-06-30 01:48:35.100984,Furto,214.73,Manhã,Sunday
+12031,12031,1,Aeroporto Galeão,RJ,2024-05-23 22:24:46.740096,Batida,192.43,Noite,Thursday
+15264,15264,6,Paulista,SP,2024-09-26 06:43:35.736612,Batida,141.64,Manhã,Thursday
+7331,7331,12,Pampulha,MG,2023-10-15 06:14:21.512086,Batida,361.1,Manhã,Sunday
+26255,26255,1,Aeroporto Galeão,RJ,2025-12-16 07:33:15.339255,Batida,197.27,Manhã,Tuesday
+9774,9774,1,Aeroporto Galeão,RJ,2024-02-08 06:27:32.241249,Dano mecânico,169.44,Manhã,Thursday
+25116,25116,8,Morumbi,SP,2025-10-29 21:10:43.296722,Furto,101.25,Noite,Wednesday
+14109,14109,13,Centro Belo Horizonte,MG,2024-07-30 08:43:32.496022,Dano mecânico,22.34,Manhã,Tuesday
+17539,17539,6,Paulista,SP,2024-12-19 23:32:09.742378,Batida,110.61,Noite,Thursday
+16112,16112,8,Morumbi,SP,2024-10-18 09:02:36.227512,Batida,268.57,Manhã,Friday
+4038,4038,6,Paulista,SP,2023-06-13 21:41:08.145217,Furto,135.45,Noite,Tuesday
+22364,22364,13,Centro Belo Horizonte,MG,2025-06-11 16:38:37.272172,Batida,336.12,Tarde,Wednesday
+20971,20971,15,Santa Efigênia,MG,2025-04-02 18:28:49.864000,Furto,152.35,Noite,Wednesday
+6149,6149,3,Centro,RJ,2023-09-13 17:20:02.831845,Batida,217.79,Tarde,Wednesday
+5260,5260,1,Aeroporto Galeão,RJ,2023-08-21 13:25:00.528317,Furto,85.03,Tarde,Monday
+21384,21384,8,Morumbi,SP,2025-05-09 09:37:01.817012,Batida,457.82,Manhã,Friday
+18111,18111,3,Centro,RJ,2025-01-19 04:58:57.098763,Batida,108.99,Manhã,Sunday
+6259,6259,6,Paulista,SP,2023-09-30 18:09:11.045768,Batida,353.39,Noite,Saturday
+23381,23381,3,Centro,RJ,2025-08-05 17:29:28.895772,Batida,433.97,Tarde,Tuesday
+19379,19379,13,Centro Belo Horizonte,MG,2025-02-04 11:00:28.011930,Batida,168.67,Manhã,Tuesday
+12799,12799,1,Aeroporto Galeão,RJ,2024-06-23 08:37:15.777258,Batida,465.72,Manhã,Sunday
+21266,21266,6,Paulista,SP,2025-05-13 05:39:58.583545,Batida,209.62,Manhã,Tuesday
+24651,24651,14,Lourdes,MG,2025-09-02 05:10:21.061493,Furto,257.44,Manhã,Tuesday
+10326,10326,12,Pampulha,MG,2024-02-09 22:05:06.680379,Batida,154.75,Noite,Friday
+12660,12660,14,Lourdes,MG,2024-05-26 09:04:56.308382,Dano mecânico,127.53,Manhã,Sunday
+5785,5785,11,Savassi,MG,2023-08-07 10:47:29.919690,Furto,93.84,Manhã,Monday
+25324,25324,12,Pampulha,MG,2025-10-14 03:29:45.965658,Batida,253.26,Manhã,Tuesday
+18132,18132,3,Centro,RJ,2025-01-10 16:54:11.628063,Batida,166.51,Tarde,Friday
+15830,15830,2,Barra da Tijuca,RJ,2024-10-09 15:36:14.812018,Batida,341.26,Tarde,Wednesday
+25480,25480,15,Santa Efigênia,MG,2025-10-11 10:49:24.588095,Batida,215.48,Manhã,Saturday
+9603,9603,13,Centro Belo Horizonte,MG,2024-01-30 08:55:32.352097,Furto,124.28,Manhã,Tuesday
+8897,8897,13,Centro Belo Horizonte,MG,2023-12-03 07:17:50.421612,Batida,365.47,Manhã,Sunday
+16215,16215,10,Liberdade,SP,2024-10-29 00:13:20.825604,Furto,103.74,Manhã,Tuesday
+7662,7662,4,Copacabana,RJ,2023-11-19 11:03:07.003939,Batida,338.03,Manhã,Sunday
+9750,9750,15,Santa Efigênia,MG,2024-01-18 15:06:05.559440,Batida,338.74,Tarde,Thursday
+12091,12091,2,Barra da Tijuca,RJ,2024-05-17 22:31:12.274237,Furto,76.65,Noite,Friday
+15954,15954,5,Méier,RJ,2024-10-10 12:31:24.615323,Furto,173.87,Tarde,Thursday
+4179,4179,9,Pinheiros,SP,2023-06-30 07:37:26.142063,Batida,198.56,Manhã,Friday
+12984,12984,5,Méier,RJ,2024-06-14 16:22:51.632422,Furto,223.67,Tarde,Friday
+15246,15246,5,Méier,RJ,2024-09-26 18:35:03.500718,Batida,244.39,Noite,Thursday
+22203,22203,10,Liberdade,SP,2025-06-03 09:37:26.261740,Dano mecânico,44.63,Manhã,Tuesday
+1191,1191,9,Pinheiros,SP,2023-02-28 07:06:33.189895,Batida,174.05,Manhã,Tuesday
+9163,9163,4,Copacabana,RJ,2024-01-02 19:57:25.736119,Dano mecânico,151.8,Noite,Tuesday
+16736,16736,5,Méier,RJ,2024-11-02 01:32:59.384427,Furto,223.07,Manhã,Saturday
+15982,15982,5,Méier,RJ,2024-10-16 09:54:28.444470,Batida,295.77,Manhã,Wednesday
+14609,14609,8,Morumbi,SP,2024-08-17 20:37:39.035388,Dano mecânico,189.93,Noite,Saturday
+24796,24796,1,Aeroporto Galeão,RJ,2025-10-09 04:47:34.984732,Furto,281.31,Manhã,Thursday
+23941,23941,14,Lourdes,MG,2025-08-26 00:28:01.964521,Batida,466.2,Manhã,Tuesday
+5461,5461,5,Méier,RJ,2023-08-24 21:37:17.451043,Furto,124.34,Noite,Thursday
+4673,4673,4,Copacabana,RJ,2023-07-18 12:37:23.781985,Dano mecânico,189.97,Tarde,Tuesday
+16091,16091,7,Itaim Bibi,SP,2024-10-31 22:44:07.262843,Dano mecânico,172.02,Noite,Thursday
+9153,9153,4,Copacabana,RJ,2024-01-01 20:23:09.547651,Furto,59.25,Noite,Monday
+16175,16175,9,Pinheiros,SP,2024-10-27 10:55:09.921913,Batida,148.23,Manhã,Sunday
+16798,16798,6,Paulista,SP,2024-11-14 03:38:49.414551,Furto,134.97,Manhã,Thursday
+6180,6180,4,Copacabana,RJ,2023-09-14 03:06:25.905892,Batida,226.12,Manhã,Thursday
+15315,15315,7,Itaim Bibi,SP,2024-09-30 01:56:18.596902,Furto,129.69,Manhã,Monday
+22041,22041,6,Paulista,SP,2025-06-26 15:39:21.942459,Dano mecânico,130.86,Tarde,Thursday
+17224,17224,15,Santa Efigênia,MG,2024-11-13 13:35:07.433640,Batida,448.04,Tarde,Wednesday
+25958,25958,10,Liberdade,SP,2025-11-12 16:39:36.899277,Dano mecânico,115.21,Tarde,Wednesday
+15271,15271,6,Paulista,SP,2024-09-16 07:09:33.100827,Furto,299.48,Manhã,Monday
+22129,22129,8,Morumbi,SP,2025-06-14 05:08:42.471311,Furto,150.48,Manhã,Saturday
+6085,6085,2,Barra da Tijuca,RJ,2023-09-04 22:51:13.457060,Furto,268.42,Noite,Monday
+20892,20892,13,Centro Belo Horizonte,MG,2025-04-18 06:01:40.879389,Furto,154.44,Manhã,Friday
+16499,16499,15,Santa Efigênia,MG,2024-10-03 19:49:33.810319,Furto,109.69,Noite,Thursday
+3640,3640,13,Centro Belo Horizonte,MG,2023-05-20 16:51:07.707274,Batida,214.9,Tarde,Saturday
+18913,18913,4,Copacabana,RJ,2025-02-22 04:51:18.454934,Batida,116.84,Manhã,Saturday
+14852,14852,13,Centro Belo Horizonte,MG,2024-08-07 20:06:49.247667,Dano mecânico,97.0,Noite,Wednesday
+20871,20871,13,Centro Belo Horizonte,MG,2025-04-17 20:54:25.928354,Furto,104.56,Noite,Thursday
+16949,16949,9,Pinheiros,SP,2024-11-07 10:15:33.954696,Furto,72.35,Manhã,Thursday
+11799,11799,11,Savassi,MG,2024-04-29 20:27:51.977860,Dano mecânico,190.05,Noite,Monday
+17503,17503,6,Paulista,SP,2024-12-06 15:52:45.583157,Furto,91.76,Tarde,Friday
+12051,12051,2,Barra da Tijuca,RJ,2024-05-09 11:34:41.673750,Batida,477.09,Manhã,Thursday
+3526,3526,11,Savassi,MG,2023-05-03 08:03:52.685100,Furto,178.17,Manhã,Wednesday
+11889,11889,13,Centro Belo Horizonte,MG,2024-04-22 19:56:03.554911,Batida,188.19,Noite,Monday
+18098,18098,2,Barra da Tijuca,RJ,2025-01-20 17:05:08.938782,Furto,137.53,Tarde,Monday
+23716,23716,10,Liberdade,SP,2025-08-04 16:42:39.546820,Dano mecânico,179.08,Tarde,Monday
+6877,6877,3,Centro,RJ,2023-10-04 21:56:44.772189,Dano mecânico,51.3,Noite,Wednesday
+7654,7654,4,Copacabana,RJ,2023-11-13 14:27:48.181648,Furto,224.01,Tarde,Monday
+16422,16422,14,Lourdes,MG,2024-10-03 22:24:25.676904,Furto,106.11,Noite,Thursday
+21185,21185,4,Copacabana,RJ,2025-05-21 17:49:07.166080,Batida,337.18,Tarde,Wednesday
+19953,19953,10,Liberdade,SP,2025-03-08 01:20:45.889141,Batida,450.98,Manhã,Saturday
+26316,26316,2,Barra da Tijuca,RJ,2025-12-29 07:35:33.898085,Batida,455.5,Manhã,Monday
+9496,9496,10,Liberdade,SP,2024-01-30 18:39:29.412435,Dano mecânico,165.71,Noite,Tuesday
+6215,6215,5,Méier,RJ,2023-09-25 03:23:41.293998,Batida,134.79,Manhã,Monday
+13094,13094,7,Itaim Bibi,SP,2024-06-28 03:58:05.280595,Batida,203.9,Manhã,Friday
+13125,13125,8,Morumbi,SP,2024-06-30 05:30:17.150422,Batida,132.42,Manhã,Sunday
+19417,19417,14,Lourdes,MG,2025-02-14 07:34:12.307222,Furto,69.03,Manhã,Friday
+20750,20750,10,Liberdade,SP,2025-04-13 23:35:12.491148,Batida,292.23,Noite,Sunday
+10106,10106,8,Morumbi,SP,2024-02-22 15:33:46.603650,Furto,136.95,Tarde,Thursday
+7222,7222,10,Liberdade,SP,2023-10-25 11:21:31.847561,Batida,206.81,Manhã,Wednesday
+2725,2725,10,Liberdade,SP,2023-04-08 01:24:10.748495,Furto,214.61,Manhã,Saturday
+13745,13745,5,Méier,RJ,2024-07-01 02:48:31.517129,Dano mecânico,147.51,Manhã,Monday
+13223,13223,10,Liberdade,SP,2024-06-15 21:40:36.499210,Furto,220.04,Noite,Saturday
+9039,9039,1,Aeroporto Galeão,RJ,2024-01-12 01:36:31.644595,Furto,89.65,Manhã,Friday
+14322,14322,2,Barra da Tijuca,RJ,2024-08-31 05:21:43.699318,Dano mecânico,25.26,Manhã,Saturday
+2130,2130,13,Centro Belo Horizonte,MG,2023-03-31 03:54:05.079990,Batida,234.05,Manhã,Friday
+17406,17406,4,Copacabana,RJ,2024-12-12 09:58:02.358642,Batida,427.19,Manhã,Thursday
+5980,5980,15,Santa Efigênia,MG,2023-08-15 16:54:50.549255,Batida,102.55,Tarde,Tuesday
+20556,20556,7,Itaim Bibi,SP,2025-04-05 17:07:50.666975,Furto,295.3,Tarde,Saturday
+4640,4640,3,Centro,RJ,2023-07-11 01:42:40.695509,Batida,353.6,Manhã,Tuesday
+16840,16840,7,Itaim Bibi,SP,2024-11-06 17:34:50.879862,Furto,76.75,Tarde,Wednesday
+8029,8029,11,Savassi,MG,2023-11-24 02:28:56.723509,Batida,485.2,Manhã,Friday
+8293,8293,1,Aeroporto Galeão,RJ,2023-12-26 22:29:56.825348,Furto,283.01,Noite,Tuesday
+2085,2085,12,Pampulha,MG,2023-03-29 20:57:07.724602,Dano mecânico,143.82,Noite,Wednesday
+5926,5926,14,Lourdes,MG,2023-08-22 14:47:06.525860,Batida,383.27,Tarde,Tuesday
+776,776,1,Aeroporto Galeão,RJ,2023-02-07 04:58:13.482111,Batida,238.35,Manhã,Tuesday
+7543,7543,1,Aeroporto Galeão,RJ,2023-11-01 20:18:25.121118,Batida,448.61,Noite,Wednesday
+23643,23643,8,Morumbi,SP,2025-08-12 03:34:25.889127,Dano mecânico,154.94,Manhã,Tuesday
+7252,7252,11,Savassi,MG,2023-10-12 17:46:24.340030,Furto,56.15,Tarde,Thursday
+23095,23095,12,Pampulha,MG,2025-07-14 04:26:25.283438,Batida,295.46,Manhã,Monday
+3644,3644,13,Centro Belo Horizonte,MG,2023-05-07 14:33:32.328281,Furto,161.48,Tarde,Sunday
+12268,12268,6,Paulista,SP,2024-05-14 17:09:27.355566,Dano mecânico,96.71,Tarde,Tuesday
+537,537,11,Savassi,MG,2023-01-02 10:57:14.361416,Batida,417.92,Manhã,Monday
+26965,26965,15,Santa Efigênia,MG,2025-12-12 17:05:03.309371,Batida,132.95,Tarde,Friday
+3499,3499,10,Liberdade,SP,2023-05-04 22:46:48.842442,Furto,118.31,Noite,Thursday
+12055,12055,2,Barra da Tijuca,RJ,2024-05-17 12:27:26.867646,Batida,272.93,Tarde,Friday
+24719,24719,15,Santa Efigênia,MG,2025-09-16 11:00:01.384636,Batida,355.41,Manhã,Tuesday
+14177,14177,14,Lourdes,MG,2024-07-19 06:05:34.949229,Batida,493.59,Manhã,Friday
+25057,25057,7,Itaim Bibi,SP,2025-10-26 01:16:52.350539,Dano mecânico,61.39,Manhã,Sunday
+6596,6596,12,Pampulha,MG,2023-09-30 00:19:50.414713,Batida,360.67,Manhã,Saturday
+14085,14085,12,Pampulha,MG,2024-07-25 19:38:50.486232,Dano mecânico,105.18,Noite,Thursday
+4750,4750,5,Méier,RJ,2023-07-13 15:36:18.762780,Batida,447.45,Tarde,Thursday
+4169,4169,9,Pinheiros,SP,2023-06-30 22:25:24.752776,Furto,261.2,Noite,Friday
+13161,13161,9,Pinheiros,SP,2024-06-18 01:47:51.586028,Furto,82.81,Manhã,Tuesday
+2716,2716,10,Liberdade,SP,2023-04-27 12:10:47.505363,Dano mecânico,131.0,Tarde,Thursday
+23612,23612,8,Morumbi,SP,2025-08-27 07:45:37.407196,Batida,146.92,Manhã,Wednesday
+10820,10820,7,Itaim Bibi,SP,2024-03-05 11:32:11.778429,Furto,157.58,Manhã,Tuesday
+11154,11154,14,Lourdes,MG,2024-03-22 10:12:41.501530,Batida,125.68,Manhã,Friday
+16793,16793,6,Paulista,SP,2024-11-08 16:00:48.311592,Batida,419.02,Tarde,Friday
+19785,19785,6,Paulista,SP,2025-03-25 21:05:21.793695,Batida,104.65,Noite,Tuesday
+8296,8296,1,Aeroporto Galeão,RJ,2023-12-09 17:22:44.484193,Batida,291.98,Tarde,Saturday
+24502,24502,11,Savassi,MG,2025-09-25 03:13:47.596472,Batida,377.99,Manhã,Thursday
+8833,8833,12,Pampulha,MG,2023-12-08 13:50:35.626293,Furto,59.9,Tarde,Friday
+16876,16876,8,Morumbi,SP,2024-11-20 11:17:13.372037,Batida,196.82,Manhã,Wednesday
+15591,15591,12,Pampulha,MG,2024-09-18 08:51:48.331634,Batida,299.56,Manhã,Wednesday
+10813,10813,7,Itaim Bibi,SP,2024-03-05 19:41:11.841475,Furto,189.91,Noite,Tuesday
+6917,6917,4,Copacabana,RJ,2023-10-23 03:52:56.844739,Batida,307.08,Manhã,Monday
+10621,10621,3,Centro,RJ,2024-03-26 07:10:18.031721,Batida,113.28,Manhã,Tuesday
+8618,8618,8,Morumbi,SP,2023-12-15 14:07:04.059007,Batida,153.09,Tarde,Friday
+26209,26209,15,Santa Efigênia,MG,2025-11-22 23:21:03.630231,Furto,250.15,Noite,Saturday
+13816,13816,7,Itaim Bibi,SP,2024-07-22 23:38:11.230248,Batida,141.83,Noite,Monday
+11075,11075,12,Pampulha,MG,2024-03-27 20:48:43.638054,Furto,57.9,Noite,Wednesday
+15539,15539,11,Savassi,MG,2024-09-25 09:14:08.341025,Batida,316.52,Manhã,Wednesday
+2735,2735,10,Liberdade,SP,2023-04-20 08:48:56.793670,Dano mecânico,148.54,Manhã,Thursday
+14238,14238,15,Santa Efigênia,MG,2024-07-25 14:11:45.002893,Batida,425.93,Tarde,Thursday
+20480,20480,5,Méier,RJ,2025-04-09 21:47:35.473254,Dano mecânico,118.57,Noite,Wednesday
+20629,20629,8,Morumbi,SP,2025-04-10 21:26:30.481264,Batida,357.43,Noite,Thursday
+8506,8506,6,Paulista,SP,2023-12-24 14:34:52.689835,Furto,70.41,Tarde,Sunday
+19882,19882,8,Morumbi,SP,2025-03-15 20:10:11.467218,Batida,163.82,Noite,Saturday
+22504,22504,1,Aeroporto Galeão,RJ,2025-07-29 20:39:56.893439,Batida,490.35,Noite,Tuesday
+7091,7091,7,Itaim Bibi,SP,2023-10-10 17:46:27.737420,Batida,415.88,Tarde,Tuesday
+15863,15863,3,Centro,RJ,2024-10-14 17:46:14.848236,Batida,322.15,Tarde,Monday
+21572,21572,12,Pampulha,MG,2025-05-21 11:22:42.700879,Batida,498.53,Manhã,Wednesday
+18962,18962,5,Méier,RJ,2025-02-17 15:39:19.615928,Furto,99.89,Tarde,Monday
+25135,25135,8,Morumbi,SP,2025-10-02 10:07:56.001129,Batida,112.26,Manhã,Thursday
+13229,13229,10,Liberdade,SP,2024-06-30 09:37:53.808413,Batida,447.31,Manhã,Sunday
+18899,18899,3,Centro,RJ,2025-02-21 01:49:19.985682,Furto,156.37,Manhã,Friday
+4414,4414,14,Lourdes,MG,2023-06-15 06:29:12.206161,Batida,495.06,Manhã,Thursday
+14119,14119,13,Centro Belo Horizonte,MG,2024-07-05 18:44:25.004093,Dano mecânico,124.16,Noite,Friday
+26394,26394,3,Centro,RJ,2025-12-18 05:25:29.060192,Furto,171.67,Manhã,Thursday
+25405,25405,14,Lourdes,MG,2025-10-05 14:49:18.940293,Dano mecânico,95.91,Tarde,Sunday
+19717,19717,5,Méier,RJ,2025-03-23 07:37:23.478873,Batida,464.95,Manhã,Sunday
+18096,18096,2,Barra da Tijuca,RJ,2025-01-22 16:48:14.920118,Furto,207.89,Tarde,Wednesday
+24496,24496,10,Liberdade,SP,2025-09-12 02:55:21.197007,Batida,386.33,Manhã,Friday
+8603,8603,8,Morumbi,SP,2023-12-28 20:32:41.476321,Batida,195.02,Noite,Thursday
+9427,9427,9,Pinheiros,SP,2024-01-10 09:19:41.839100,Batida,441.75,Manhã,Wednesday
+14369,14369,3,Centro,RJ,2024-08-25 07:51:28.994833,Batida,448.3,Manhã,Sunday
+4058,4058,7,Itaim Bibi,SP,2023-06-22 23:19:52.032776,Batida,243.69,Noite,Thursday
+10332,10332,12,Pampulha,MG,2024-02-29 22:07:46.907687,Batida,256.43,Noite,Thursday
+26447,26447,4,Copacabana,RJ,2025-12-18 01:04:52.766489,Batida,362.69,Manhã,Thursday
+12739,12739,15,Santa Efigênia,MG,2024-05-13 23:04:28.682609,Furto,82.72,Noite,Monday
+22943,22943,9,Pinheiros,SP,2025-07-07 03:43:00.702823,Batida,194.42,Manhã,Monday
+20700,20700,9,Pinheiros,SP,2025-04-09 17:57:20.487146,Batida,307.91,Tarde,Wednesday
+15429,15429,9,Pinheiros,SP,2024-09-27 00:52:12.162880,Furto,157.72,Manhã,Friday
+13956,13956,10,Liberdade,SP,2024-07-22 17:12:55.051497,Furto,226.69,Tarde,Monday
+13355,13355,13,Centro Belo Horizonte,MG,2024-06-24 01:52:24.623968,Batida,114.67,Manhã,Monday
+11947,11947,14,Lourdes,MG,2024-04-06 14:21:24.893923,Furto,168.66,Tarde,Saturday
+8100,8100,12,Pampulha,MG,2023-11-22 04:46:47.691045,Furto,196.34,Manhã,Wednesday
+19333,19333,12,Pampulha,MG,2025-02-09 16:55:06.897232,Batida,144.77,Tarde,Sunday
+1667,1667,4,Copacabana,RJ,2023-03-22 11:58:20.660970,Batida,312.47,Manhã,Wednesday
+1636,1636,3,Centro,RJ,2023-03-01 18:38:55.464160,Batida,148.84,Noite,Wednesday
+13425,13425,14,Lourdes,MG,2024-06-14 11:25:41.295403,Dano mecânico,76.91,Manhã,Friday
+8740,8740,10,Liberdade,SP,2023-12-28 16:15:54.651365,Batida,159.34,Tarde,Thursday
+24440,24440,9,Pinheiros,SP,2025-09-28 04:37:36.076366,Dano mecânico,20.89,Manhã,Sunday
+19203,19203,10,Liberdade,SP,2025-02-14 09:16:35.498683,Furto,266.98,Manhã,Friday
+9892,9892,3,Centro,RJ,2024-02-21 20:42:22.203635,Batida,295.54,Noite,Wednesday
+26110,26110,13,Centro Belo Horizonte,MG,2025-11-05 10:14:39.926131,Batida,111.99,Manhã,Wednesday
+3036,3036,1,Aeroporto Galeão,RJ,2023-05-16 21:23:07.535502,Furto,100.46,Noite,Tuesday
+17708,17708,10,Liberdade,SP,2024-12-13 03:01:48.331429,Dano mecânico,36.9,Manhã,Friday
+10135,10135,8,Morumbi,SP,2024-02-04 01:35:25.645532,Batida,447.26,Manhã,Sunday
+9301,9301,7,Itaim Bibi,SP,2024-01-18 23:57:00.352376,Furto,259.53,Noite,Thursday
+15293,15293,6,Paulista,SP,2024-09-03 05:55:41.636737,Furto,174.29,Manhã,Tuesday
+23137,23137,13,Centro Belo Horizonte,MG,2025-07-20 07:52:28.569345,Dano mecânico,122.71,Manhã,Sunday
+15309,15309,7,Itaim Bibi,SP,2024-09-06 02:54:54.093054,Dano mecânico,144.11,Manhã,Friday
+3143,3143,3,Centro,RJ,2023-05-02 14:25:40.802806,Batida,363.55,Tarde,Tuesday
+20058,20058,12,Pampulha,MG,2025-03-14 17:10:04.693423,Furto,76.65,Tarde,Friday
+18741,18741,15,Santa Efigênia,MG,2025-01-05 21:32:56.341706,Dano mecânico,28.68,Noite,Sunday
+14791,14791,11,Savassi,MG,2024-08-29 05:32:28.473467,Batida,448.3,Manhã,Thursday
+3474,3474,10,Liberdade,SP,2023-05-09 22:31:29.940226,Batida,395.38,Noite,Tuesday
+1938,1938,9,Pinheiros,SP,2023-03-23 13:59:23.567715,Batida,230.81,Tarde,Thursday
+25964,25964,10,Liberdade,SP,2025-11-11 13:59:34.069123,Furto,240.57,Tarde,Tuesday
+16276,16276,11,Savassi,MG,2024-10-06 22:12:45.816562,Batida,427.13,Noite,Sunday
+4388,4388,13,Centro Belo Horizonte,MG,2023-06-07 15:50:45.553483,Batida,102.3,Tarde,Wednesday
+18947,18947,4,Copacabana,RJ,2025-02-12 06:29:30.644246,Batida,258.47,Manhã,Wednesday
+16292,16292,11,Savassi,MG,2024-10-19 21:58:45.167578,Batida,279.48,Noite,Saturday
+21819,21819,2,Barra da Tijuca,RJ,2025-06-23 12:17:32.597160,Batida,190.91,Tarde,Monday
+24117,24117,3,Centro,RJ,2025-09-19 12:20:58.660261,Furto,217.05,Tarde,Friday
+16706,16706,5,Méier,RJ,2024-11-30 05:52:24.432634,Batida,251.91,Manhã,Saturday
+24825,24825,2,Barra da Tijuca,RJ,2025-10-04 10:21:59.891764,Batida,291.67,Manhã,Saturday
+5340,5340,2,Barra da Tijuca,RJ,2023-08-23 02:01:15.727441,Batida,252.08,Manhã,Wednesday
+8611,8611,8,Morumbi,SP,2023-12-09 08:30:44.597072,Batida,313.44,Manhã,Saturday
+22782,22782,6,Paulista,SP,2025-07-13 10:28:09.230656,Furto,253.25,Manhã,Sunday
+24206,24206,5,Méier,RJ,2025-09-17 11:02:00.240642,Dano mecânico,23.28,Manhã,Wednesday
+10014,10014,6,Paulista,SP,2024-02-16 17:08:38.966008,Batida,358.99,Tarde,Friday
+23964,23964,15,Santa Efigênia,MG,2025-08-31 09:38:29.969768,Batida,470.81,Manhã,Sunday
+3097,3097,2,Barra da Tijuca,RJ,2023-05-30 03:05:10.135853,Dano mecânico,83.29,Manhã,Tuesday
+13941,13941,9,Pinheiros,SP,2024-07-28 11:29:54.838758,Batida,202.71,Manhã,Sunday
+23980,23980,15,Santa Efigênia,MG,2025-08-04 13:20:22.106739,Batida,421.21,Tarde,Monday
+9505,9505,11,Savassi,MG,2024-01-10 15:40:34.208388,Batida,344.13,Tarde,Wednesday
+16701,16701,5,Méier,RJ,2024-11-07 20:35:31.185646,Batida,265.42,Noite,Thursday
+3996,3996,5,Méier,RJ,2023-06-29 12:24:44.282922,Batida,372.45,Tarde,Thursday
+475,475,10,Liberdade,SP,2023-01-12 17:22:42.677090,Batida,383.62,Tarde,Thursday
+19923,19923,9,Pinheiros,SP,2025-03-11 10:55:20.726296,Batida,202.63,Manhã,Tuesday
+9279,9279,6,Paulista,SP,2024-01-16 09:22:09.959809,Batida,422.4,Manhã,Tuesday
+10398,10398,13,Centro Belo Horizonte,MG,2024-02-06 14:27:09.042788,Batida,353.26,Tarde,Tuesday
+13521,13521,1,Aeroporto Galeão,RJ,2024-07-03 04:25:35.909710,Furto,254.8,Manhã,Wednesday
+18948,18948,4,Copacabana,RJ,2025-02-03 09:22:41.642942,Batida,184.82,Manhã,Monday
+8268,8268,1,Aeroporto Galeão,RJ,2023-12-17 22:00:45.772968,Batida,435.94,Noite,Sunday
+16829,16829,7,Itaim Bibi,SP,2024-11-04 06:47:30.871395,Batida,194.75,Manhã,Monday
+20431,20431,4,Copacabana,RJ,2025-04-29 16:35:17.435157,Batida,429.05,Tarde,Tuesday
+19021,19021,6,Paulista,SP,2025-02-01 10:22:05.116593,Furto,73.88,Manhã,Saturday
+21865,21865,3,Centro,RJ,2025-06-24 22:28:49.358713,Batida,334.64,Noite,Tuesday
+25400,25400,13,Centro Belo Horizonte,MG,2025-10-28 08:25:42.169961,Furto,265.7,Manhã,Tuesday
+23475,23475,5,Méier,RJ,2025-08-22 13:57:59.775902,Batida,109.46,Tarde,Friday
+1611,1611,3,Centro,RJ,2023-03-24 20:42:35.712789,Furto,186.67,Noite,Friday
+24211,24211,5,Méier,RJ,2025-09-14 15:10:50.072299,Batida,337.79,Tarde,Sunday
+11171,11171,14,Lourdes,MG,2024-03-05 11:21:01.157483,Dano mecânico,44.56,Manhã,Tuesday
+1183,1183,9,Pinheiros,SP,2023-02-05 05:41:44.685586,Batida,271.28,Manhã,Sunday
+22625,22625,3,Centro,RJ,2025-07-29 06:11:27.770349,Furto,297.81,Manhã,Tuesday
+17279,17279,1,Aeroporto Galeão,RJ,2024-12-29 08:45:37.140759,Batida,389.74,Manhã,Sunday
+19737,19737,5,Méier,RJ,2025-03-31 18:51:32.404442,Batida,131.77,Noite,Monday
+14215,14215,15,Santa Efigênia,MG,2024-07-23 13:47:07.293008,Dano mecânico,54.54,Tarde,Tuesday
+5954,5954,15,Santa Efigênia,MG,2023-08-22 19:33:35.023659,Batida,242.0,Noite,Tuesday
+6393,6393,8,Morumbi,SP,2023-09-23 18:53:59.211568,Batida,127.05,Noite,Saturday
+24155,24155,4,Copacabana,RJ,2025-09-10 22:19:50.842364,Batida,316.0,Noite,Wednesday
+5534,5534,6,Paulista,SP,2023-08-02 17:54:21.171002,Furto,183.24,Tarde,Wednesday
+6179,6179,4,Copacabana,RJ,2023-09-19 02:56:04.587958,Batida,367.79,Manhã,Tuesday
+12610,12610,13,Centro Belo Horizonte,MG,2024-05-20 03:05:47.141081,Furto,189.45,Manhã,Monday
